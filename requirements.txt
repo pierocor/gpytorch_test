@@ -1,0 +1,4 @@
+torch==1.9.0
+scikit-learn
+scipy
+pyro-ppl==1.7.0
